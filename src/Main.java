@@ -12,7 +12,7 @@ public class Main {
             }
         int divided14 = 0;
         int divided7 = 0;
-        int divided2 = 0;
+        int divided2 = 0; //
         int max = 0;
         int result1 = 0;
         int result2 = 0;
